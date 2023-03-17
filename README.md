@@ -1,4 +1,4 @@
-# Real Estate DB
+# LocationIQ DB
 
 ### ER Diagram
 
