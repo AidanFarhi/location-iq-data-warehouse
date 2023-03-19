@@ -1,5 +1,5 @@
 CREATE TABLE listing (
-    zip_code INTEGER,
+    zip_code VARCHAR(10),
     price FLOAT,
     bathrooms FLOAT,
     bedrooms FLOAT,
