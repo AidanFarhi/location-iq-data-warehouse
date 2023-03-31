@@ -1,5 +1,5 @@
 # LocationIQ DB
 
-### ER Diagram
+### Data Model
 
-![ER Diagram](/images/LocationIQ_DB_ERD.jpeg)
+![Data Model](/images/LocationIQ_Data_Model.jpeg)
