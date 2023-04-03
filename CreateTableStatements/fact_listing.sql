@@ -1,13 +1,12 @@
-CREATE TABLE listing (
-    zip_code VARCHAR(10),
+CREATE TABLE fact_listing (
+    location_id INTEGER,
     price FLOAT,
-    bathrooms FLOAT,
     bedrooms FLOAT,
+    bathrooms FLOAT,
     square_footage FLOAT,
-    property_type VARCHAR(100),
     listed_date DATE,
     removed_date DATE,
-    lot_size FLOAT,
     year_built INTEGER,
+    lot_size FLOAT,
     snapshot_date DATE
 )
