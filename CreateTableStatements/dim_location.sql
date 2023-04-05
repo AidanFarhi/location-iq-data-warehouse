@@ -1,7 +1,8 @@
-CREATE TABLE dim_location (
-    ZIP_CODE VARCHAR(20),
-    STATE VARCHAR(2),
-    COUNTY VARCHAR(60),
-    LATITUDE FLOAT,
-    LONGITUDE FLOAT
+CREATE TABLE dim_location_temp (
+    location_id integer autoincrement start 1 increment 1,
+    zip_code VARCHAR(20),
+    state VARCHAR(2),
+    county VARCHAR(60),
+    latitude FLOAT,
+    longitude FLOAT
 )
