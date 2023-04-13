@@ -6,10 +6,10 @@ CREATE TABLE summary_zip_code (
     average_annual_salary FLOAT,
     expense_score FLOAT,
     crime_score FLOAT,
-    avg_home_price FLOAT,
-    avg_home_age_in_years FLOAT,
-    avg_square_footage FLOAT,
-    avg_price_per_square_foot FLOAT,
-    avg_time_on_market_in_years FLOAT,
+    average_home_price FLOAT,
+    average_home_age_in_years FLOAT,
+    average_square_footage FLOAT,
+    average_price_per_square_foot FLOAT,
+    average_time_on_market_in_years FLOAT,
     snapshot_date DATE
 )
