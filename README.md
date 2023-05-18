@@ -1,5 +1,11 @@
-# LocationIQ DB
+# LocationIQ Data Warehouse
 
-### Data Model
+This repo houses all of the SQL code for the LocationIQ project.
+
+## Dimensional Data Model
+
+This is the current model for the data warehouse. It was designed
+using dimensional modeling.
+
 
 ![Data Model](/images/LocationIQ_Data_Model.jpeg)
