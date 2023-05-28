@@ -1,1 +1,0 @@
--- TODO: write an SQL script to populate dim_date table
