@@ -1,4 +1,4 @@
-CREATE TABLE dim_location_temp (
+CREATE TABLE dim_location (
     location_id integer autoincrement start 1 increment 1,
     zip_code VARCHAR(20),
     state VARCHAR(2),
